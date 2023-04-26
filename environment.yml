@@ -1,4 +1,4 @@
-name: temoa-mini-py3
+name: solver-dev-py3
 channels:
     - defaults
     - conda-forge
